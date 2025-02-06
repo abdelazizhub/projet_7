@@ -3,3 +3,12 @@ uvicorn
 streamlit 
 mlflow 
 boto3 
+pandas 
+numpy
+scikit-learn
+shap
+pickle
+shap
+plotly
+seaborn
+matplotlib
