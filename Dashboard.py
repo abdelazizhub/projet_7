@@ -12,7 +12,7 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from PIL import Image
 
 # local
-API_URL = "http://51.21.116.35:8000/"
+API_URL = "http://127.0.0.1:8080/"
 # deployment cloud
 
 
